@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name ="purple_100">#7F15A5</color>
+    <color name="newPurple">#6A1FB9</color>
+    <color name="colorPrimary">#B735E5</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="lightBackground">#FFF0DBF8</color>
+
+        <color name="purple_200">#0074E4</color>
+        <color name="purple_500">#FF6200EE</color>
+        <color name="purple_700">#FF3700B3</color>
+        <color name="teal_200">#FF03DAC5</color>
+        <color name="teal_700">#FF018786</color>
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+
+        <color name="on_boarding_main_text">#1D262C</color>
+        <color name="on_boarding_secondary_text">#71828A</color>
+        <color name="main_button_color">#0074E4</color>
+        <color name="learn_more_button_color">#0091FF</color>
+
+        <color name="home_screen_main_text">#2A2B2F</color>
+        <color name="home_screen_secondary_text">#9399A3</color>
+
+        <color name="coupon_main_theme">#6DD400</color>
+        <color name="coupon_main_background">#FFF0DBF8</color>
+
+        <color name="maintenance_main_theme">#0091FF</color>
+        <color name="maintenance_main_background">#1A0091FF</color>
+
+        <color name="ai_predict_main_theme">#E02020</color>
+        <color name="ai_predict_main_background">#1AE02020</color>
+
+        <color name="red_competitor_background">#1AE02020</color>
+        <color name="blue_competitor_background">#1A0091FF</color>
+        <color name="green_competitor_background">#1A6DD400</color>
+        <color name="yellow_competitor_background">#1AF7B500</color>
+
+        <color name="offer_card_view_stroke">#E7ECEE</color>
+        <color name="upgrade_screen_main_color">#43AFFF</color>
+        <color name="upgrade_screen_secondary_color">#636C84</color>
+
+    // color for background cardview
+    <color name="redbackground">#40FF0024</color>
+    <color name="pinkbackground">#40F21785</color>
+    <color name="purplebackground">#408913EF</color>
+    <color name="bluebackground">#5B136EE2</color>
+    <color name="greenbackground">#4013EF68</color>
+    <color name="yellowbackground">#4087FE00</color>
+
+
+</resources>
