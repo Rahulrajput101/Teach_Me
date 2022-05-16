@@ -29,6 +29,7 @@ class MainFragment : Fragment() {
         listName()
         bindWord(mainViewModel.getWord())
         changeWordClickListener()
+
         setHasOptionsMenu(true)
         return binding.root
 
